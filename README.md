@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kaushlendra kumar Dwivedi</h1>
-<h3 align="center">App Development Intern | React Native & Android Enthusiast</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Kaushlendra+kumar+Dwivedi;App+Development+Intern;React+Native+%26+Android+Enthusiast;Building+Mobile+Experiences" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaushdwi&label=Profile%20views&color=0e75b6&style=flat-square" alt="kaushdwi" />
@@ -13,17 +16,28 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **[Real-Time Mobile Applications (React Native & Android)](https://github.com/KAUSHDWI)**
-- 🌱 I’m currently learning **Data Structures & Algorithms, Machine Learning, React Native**
-- 👯 I’m looking to collaborate on **[Open-source Mobile App Projects](https://github.com/KAUSHDWI)**
-- 🤝 I’m looking for help with **Advanced DSA and System Design**
-- 💬 Ask me about **Java, Kotlin, React Native, Android Development**
-- 📫 How to reach me: **kaushlendradwivedi21@gmail.com**
-- 📄 My experiences: **[Resume/Portfolio](https://drive.google.com/file/d/1CgHBYQOMtGRPfwQo2KHRnjS7ro49QD4F/view?usp=drive_link)**
+- 🔭 **Current Project:** [Real-Time Mobile Applications (React Native & Android)](https://github.com/KAUSHDWI)
+- 🌱 **Learning Journey:** Data Structures & Algorithms, Machine Learning, React Native
+- 👯 **Collaborations:** Open-source Mobile App Projects
+- 🤝 **Focus Area:** Advanced DSA and System Design
+- 💬 **Ask me about:** Java, Kotlin, React Native, Android Development
+- 📫 **Email:** [kaushlendradwivedi21@gmail.com](mailto:kaushlendradwivedi21@gmail.com)
+- 📄 **Resume:** [View My Experience](https://drive.google.com/file/d/1CgHBYQOMtGRPfwQo2KHRnjS7ro49QD4F/view?usp=drive_link)
 
 ---
 
-### ⚡ Coding Activity & "How Much I Code"
+### 🎓 Knowledge & Proficiency
+
+| Skill | Proficiency Level |
+|---|---|
+| **Android (Java/Kotlin)** | ![90%](https://geps.dev/progress/90?dangerColor=800080&warningColor=ff0000&successColor=00ff00) |
+| **React Native / JS** | ![85%](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff0000&successColor=00ff00) |
+| **Data Structures (DSA)** | ![75%](https://geps.dev/progress/75?dangerColor=800080&warningColor=ff0000&successColor=00ff00) |
+| **Backend (Node/Python)** | ![65%](https://geps.dev/progress/65?dangerColor=800080&warningColor=ff0000&successColor=00ff00) |
+
+---
+
+### 📊 "How Much I Code" (Activity Graph)
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaushdwi&theme=tokyo-night&area=true&hide_border=true" />
@@ -36,18 +50,15 @@
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 Tech Stack & Tools
 
-| Category | Tools & Technologies |
-|---|---|
-| **Mobile** | <p align="left"><img src="https://www.vectorlogo.zone/logos/android/android-official.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" height="35"/> <img src="https://reactnative.dev/img/header_logo.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/nativescript/nativescript-icon.svg" width="35" height="35"/></p> |
-| **Frontend** | <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35" height="35"/> <img src="https://www.chartjs.org/media/logo-title.svg" width="35" height="35"/></p> |
-| **Backend & DB** | <p align="left"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="35" height="35"/></p> |
-| **Cloud & UI/UX** | <p align="left"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="35" height="35"/></p> |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=android,kotlin,java,react,ts,js,nodejs,express,mongodb,mysql,firebase,appwrite,aws,gcp,figma,python,django,tailwind&perline=9" />
+</p>
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/kaushlendra-kumar-dwivedi-7050422b1/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -56,11 +67,12 @@
 <a href="https://www.topcoder.com/members/201310" target="blank"><img src="https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white" /></a>
 </p>
 
-### 🐍 Contribution Snake
+### 🐍 Coding Journey Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushdwi&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushdwi&theme=tokyonight" alt="GitHub Streak" />
+  <!-- This snake moves through your actual contributions! -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
