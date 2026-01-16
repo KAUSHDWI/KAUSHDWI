@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushdwi&theme=radical&no-frame=false&column=7" alt="kaushdwi" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushdwi&theme=tokyonight&no-frame=false&column=7" alt="kaushdwi" /></a>
 </p>
 
 ---
@@ -19,14 +19,18 @@
 - 🤝 I’m looking for help with **Advanced DSA and System Design**
 - 💬 Ask me about **Java, Kotlin, React Native, Android Development**
 - 📫 How to reach me: **kaushlendradwivedi21@gmail.com**
-- 📄 Know about my experiences: **[My Resume/Portfolio](https://drive.google.com/file/d/1CgHBYQOMtGRPfwQo2KHRnjS7ro49QD4F/view?usp=drive_link)**
+- 📄 My experiences: **[Resume/Portfolio](https://drive.google.com/file/d/1CgHBYQOMtGRPfwQo2KHRnjS7ro49QD4F/view?usp=drive_link)**
 
 ---
 
-### 📊 GitHub Analytics
+### ⚡ Coding Activity & "How Much I Code"
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaushdwi&show_icons=true&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaushdwi&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaushdwi&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushdwi&layout=compact&theme=tokyonight" />
 </p>
 
@@ -40,7 +44,6 @@
 | **Frontend** | <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35" height="35"/> <img src="https://www.chartjs.org/media/logo-title.svg" width="35" height="35"/></p> |
 | **Backend & DB** | <p align="left"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="35" height="35"/></p> |
 | **Cloud & UI/UX** | <p align="left"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="35" height="35"/></p> |
-| **Data Science** | <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="35" height="35"/></p> |
 
 ---
 
@@ -53,7 +56,11 @@
 <a href="https://www.topcoder.com/members/201310" target="blank"><img src="https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white" /></a>
 </p>
 
-### 🐍 Activity Streak
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushdwi&theme=tokyonight" alt="GitHub Streak" />
 </p>
