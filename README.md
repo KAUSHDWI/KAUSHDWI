@@ -20,7 +20,7 @@
 - 🌱 **Learning Journey:** Data Structures & Algorithms, Machine Learning, React Native
 - 👯 **Collaborations:** Open-source Mobile App Projects
 - 🤝 **Focus Area:** Advanced DSA and System Design
-- 💬 **Ask me about:** Java, Kotlin, React Native, Android Development
+- 💬 **Ask me about:** Java, Kotlin, React Native , Android Development
 - 📫 **Email:** [kaushlendradwivedi21@gmail.com](mailto:kaushlendradwivedi21@gmail.com)
 - 📄 **Resume:** [View My Experience](https://drive.google.com/file/d/1CgHBYQOMtGRPfwQo2KHRnjS7ro49QD4F/view?usp=drive_link)
 
