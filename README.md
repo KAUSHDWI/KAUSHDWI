@@ -58,7 +58,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Connect With Me Now
 
 <p align="left">
 <a href="https://www.linkedin.com/in/kaushlendra-kumar-dwivedi-7050422b1/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
