@@ -63,7 +63,7 @@
 | **Android (Java / Kotlin)** | ![90%](https://geps.dev/progress/90?dangerColor=800080&warningColor=ff0000&successColor=00D1FF) |
 | **React Native / JS** | ![85%](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff0000&successColor=00D1FF) |
 | **Data Structures (DSA)** | ![75%](https://geps.dev/progress/75?dangerColor=800080&warningColor=ff0000&successColor=00D1FF) |
-| **Backend (Node / Python)** | ![65%](https://geps.dev/progress/65?dangerColor=800080&warningColor=ff0000&successColor=00D1FF) |
+| **Backend (Node/ Python)** | ![65%](https://geps.dev/progress/65?dangerColor=800080&warningColor=ff0000&successColor=00D1FF) |
 | **Machine Learning** | ![40%](https://geps.dev/progress/40?dangerColor=800080&warningColor=ff0000&successColor=00D1FF) |
 | **System Design** | ![50%](https://geps.dev/progress/50?dangerColor=800080&warningColor=ff0000&successColor=00D1FF) |
 
